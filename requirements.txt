@@ -1,0 +1,7 @@
+# Django
+django==3.1.0
+django-environ==0.4.5
+
+# Database
+mysqlclient==2.0.3
+pymysql==1.0.2
